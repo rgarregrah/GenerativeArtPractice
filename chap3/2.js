@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(500, 100);
+  var c = createCanvas(500, 100);
   background(255);
   strokeWeight(5);
   smooth();
@@ -22,6 +22,7 @@ function setup() {
     lasty = y;
     ynoise += 0.03;
   }
+  saveCanvas(c, "2", "png");
 }
 
 function draw() {}
