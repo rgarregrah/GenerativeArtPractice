@@ -5,7 +5,7 @@
 [普及版]ジェネラティブ・アート―Processingによる実践ガイド
 
 ### 進捗
-- [ ] [普及版]ジェネラティブ・アート―Processingによる実践ガイド
+- [x] ジェネラティブ・アート―Processingによる実践ガイド
 - [ ] Nature of Code -Processingではじめる自然現象のシミュレーション
 - [ ] ビジュアライジング・データ ―Processingによる情報視覚化手法
 - [ ] Generative Design-Processingで切り拓く、デザインの新たな地平
